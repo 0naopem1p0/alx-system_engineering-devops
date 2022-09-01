@@ -1,1 +1,1 @@
- a script that prints the type of the file named iamafile in the directory tmp
+Creating a symbolic link which is in a current working directory
