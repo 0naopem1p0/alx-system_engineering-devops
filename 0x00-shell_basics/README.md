@@ -1,1 +1,1 @@
-Creating a symbolic link which is in a current working directory
+ a script that copies all the HTML files from the current working directory to the parent of the working directory
