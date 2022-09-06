@@ -1,1 +1,1 @@
- displaying the first 10 lines of a file 
+ a shell script that creates a file and inserts a text inside it 
